@@ -40,7 +40,10 @@ behind loan default, i.e.the variables which are strong indicators of default.
   #1.For loan range of 12000 to 17750, % of defaulters is high for 18.2% to 21.395% than 21.39% to 24.59% (applicants more likely to default for 18.2% to 21.395%)
   #2.For loan range of 23501 to 29250, % of defaulters is high for 15.005% to 18.2% than 18.2% to 21.395% (applicants more likely to default for 15.005% to 18.2%)
   
-12. When the purpose of loan is for house, applicants with income of >1 lac have defaulted(23%) more than <20K range(22%). For other purposes, <20K income range applicants have higher % of defaulters. Especially for purpose of renewable energy(40%), medical(38%) and small business (35%) defaulters from <20K range 
+12. When the purpose of loan is for house, applicants with income of >1 lac have defaulted(23%) more than <20K range(22%). For other purposes, <20K income range applicants have higher % of defaulters. Especially for purpose of renewable energy(40%), medical(38%) and small business (35%) defaulters from <20K range
+
+13. Applicants who took loan amount in the range > 17750 have higher % of defaulters from source verified compared to other statuses and Applicants who took loan amount in the range < 17750 have higher % of defaulters from verified status compared to other statuses 
+
 
   
 
